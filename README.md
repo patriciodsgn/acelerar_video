@@ -1,11 +1,3 @@
-
-¡Excelente! Vamos a armar un **README claro y práctico** que documente tu flujo completo para acelerar videos con Python, FFmpeg y un entorno virtual. Este archivo te servirá tanto como guía personal como si querés compartirlo con otras personas o subirlo a GitHub.
-
----
-
-## 📄 `README.md`
-
-```markdown
 # ⚡ Acelerador de Videos con Python y FFmpeg
 
 Este proyecto permite acelerar archivos de video (`.mp4`) usando `FFmpeg`, controlado desde un script Python. Ideal para hacer versiones aceleradas de videos largos sin pérdida de calidad innecesaria.
@@ -125,10 +117,4 @@ Cuando finaliza, se imprime:
 ## 📌 Créditos
 
 Creado por [@patriciodsgn](https://github.com/patriciodsgn) con ♥️ para automatizar edición de video en proyectos creativos.
-```
-
----
-
-¿Querés que además agreguemos una sección para **modo batch** (para procesar todos los videos en `original/`)? Lo puedo dejar listo también para el README y el código 😄
-
 
